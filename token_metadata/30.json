@@ -1,0 +1,24 @@
+{
+    "name": "PURE Asset: RENDER",
+    "description": "PURE System Logic - Asset Slot 30",
+    "external_url": "https://pure-sanctuary.github.io/",
+    "attributes": [
+        {
+            "trait_type": "System",
+            "value": "PURE"
+        },
+        {
+            "trait_type": "SlotID",
+            "value": "30"
+        },
+        {
+            "trait_type": "Label",
+            "value": "RENDER"
+        },
+        {
+            "trait_type": "Ratio",
+            "value": "100000"
+        }
+    ],
+    "image": "https://example.com/placeholder.png"
+}

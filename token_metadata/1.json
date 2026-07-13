@@ -1,0 +1,24 @@
+{
+    "name": "PURE Asset: USD",
+    "description": "PURE System Logic - Asset Slot 01",
+    "external_url": "https://pure-sanctuary.github.io/",
+    "attributes": [
+        {
+            "trait_type": "System",
+            "value": "PURE"
+        },
+        {
+            "trait_type": "SlotID",
+            "value": "01"
+        },
+        {
+            "trait_type": "Label",
+            "value": "USD"
+        },
+        {
+            "trait_type": "Ratio",
+            "value": "100000"
+        }
+    ],
+    "image": "https://example.com/placeholder.png"
+}

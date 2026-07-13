@@ -1,0 +1,24 @@
+{
+    "name": "PURE Asset: PROMPT",
+    "description": "PURE System Logic - Asset Slot 25",
+    "external_url": "https://pure-sanctuary.github.io/",
+    "attributes": [
+        {
+            "trait_type": "System",
+            "value": "PURE"
+        },
+        {
+            "trait_type": "SlotID",
+            "value": "25"
+        },
+        {
+            "trait_type": "Label",
+            "value": "PROMPT"
+        },
+        {
+            "trait_type": "Ratio",
+            "value": "100000"
+        }
+    ],
+    "image": "https://example.com/placeholder.png"
+}

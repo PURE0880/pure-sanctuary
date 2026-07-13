@@ -1,0 +1,24 @@
+{
+    "name": "PURE Asset: W",
+    "description": "PURE System Logic - Asset Slot 14",
+    "external_url": "https://pure-sanctuary.github.io/",
+    "attributes": [
+        {
+            "trait_type": "System",
+            "value": "PURE"
+        },
+        {
+            "trait_type": "SlotID",
+            "value": "14"
+        },
+        {
+            "trait_type": "Label",
+            "value": "W"
+        },
+        {
+            "trait_type": "Ratio",
+            "value": "100000"
+        }
+    ],
+    "image": "https://example.com/placeholder.png"
+}
