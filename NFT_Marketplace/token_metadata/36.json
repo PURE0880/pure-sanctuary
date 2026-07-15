@@ -1,0 +1,24 @@
+{
+    "name": "PURE Asset: LOGOS",
+    "description": "PURE System Logic - Asset Slot 36",
+    "external_url": "https://pure-sanctuary.github.io/",
+    "attributes": [
+        {
+            "trait_type": "System",
+            "value": "PURE"
+        },
+        {
+            "trait_type": "SlotID",
+            "value": "36"
+        },
+        {
+            "trait_type": "Label",
+            "value": "LOGOS"
+        },
+        {
+            "trait_type": "Ratio",
+            "value": "100000"
+        }
+    ],
+    "image": "https://pure-sanctuary.github.io/images/36.png"
+}

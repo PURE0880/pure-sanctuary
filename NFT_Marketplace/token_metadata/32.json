@@ -1,0 +1,24 @@
+{
+    "name": "PURE Asset: KERNING",
+    "description": "PURE System Logic - Asset Slot 32",
+    "external_url": "https://pure-sanctuary.github.io/",
+    "attributes": [
+        {
+            "trait_type": "System",
+            "value": "PURE"
+        },
+        {
+            "trait_type": "SlotID",
+            "value": "32"
+        },
+        {
+            "trait_type": "Label",
+            "value": "KERNING"
+        },
+        {
+            "trait_type": "Ratio",
+            "value": "100000"
+        }
+    ],
+    "image": "https://pure-sanctuary.github.io/images/32.png"
+}

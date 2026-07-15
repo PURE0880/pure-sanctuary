@@ -1,0 +1,24 @@
+{
+    "name": "PURE Asset: RESERVE",
+    "description": "PURE System Logic - Asset Slot 12",
+    "external_url": "https://pure-sanctuary.github.io/",
+    "attributes": [
+        {
+            "trait_type": "System",
+            "value": "PURE"
+        },
+        {
+            "trait_type": "SlotID",
+            "value": "12"
+        },
+        {
+            "trait_type": "Label",
+            "value": "RESERVE"
+        },
+        {
+            "trait_type": "Ratio",
+            "value": "100000"
+        }
+    ],
+    "image": "https://pure-sanctuary.github.io/images/12.png"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "PURE Asset: BOOT",
+    "description": "PURE System Logic - Asset Slot 19",
+    "external_url": "https://pure-sanctuary.github.io/",
+    "attributes": [
+        {
+            "trait_type": "System",
+            "value": "PURE"
+        },
+        {
+            "trait_type": "SlotID",
+            "value": "19"
+        },
+        {
+            "trait_type": "Label",
+            "value": "BOOT"
+        },
+        {
+            "trait_type": "Ratio",
+            "value": "100000"
+        }
+    ],
+    "image": "https://pure-sanctuary.github.io/images/19.png"
+}

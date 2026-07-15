@@ -1,0 +1,24 @@
+{
+    "name": "PURE Asset: QUALIA",
+    "description": "PURE System Logic - Asset Slot 35",
+    "external_url": "https://pure-sanctuary.github.io/",
+    "attributes": [
+        {
+            "trait_type": "System",
+            "value": "PURE"
+        },
+        {
+            "trait_type": "SlotID",
+            "value": "35"
+        },
+        {
+            "trait_type": "Label",
+            "value": "QUALIA"
+        },
+        {
+            "trait_type": "Ratio",
+            "value": "100000"
+        }
+    ],
+    "image": "https://pure-sanctuary.github.io/images/35.png"
+}
