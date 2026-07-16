@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: bps",
-    "description": "PURE System Logic - Asset Slot 16",
+    "description": "ARCHE-Defined Entity: bps (Slot 16)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "bps"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "c1a68ba24f61bde31cc3c8b9cfafbcc9530c2778576a32179f617668f7543c18"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/16.png"

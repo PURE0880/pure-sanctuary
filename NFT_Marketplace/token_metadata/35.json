@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: QUALIA",
-    "description": "PURE System Logic - Asset Slot 35",
+    "description": "ARCHE-Defined Entity: QUALIA (Slot 35)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "QUALIA"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "bc66bad1adf52541dd5c672f5197e18932e6d218d497999d880aec71aff02e0c"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/35.png"

@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: KOTLIN",
-    "description": "PURE System Logic - Asset Slot 29",
+    "description": "ARCHE-Defined Entity: KOTLIN (Slot 29)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "KOTLIN"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "87ef23fb98b9d79efa8ad7b1558ee10ec77dce53d7b220fe221559999bd130bc"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/29.png"

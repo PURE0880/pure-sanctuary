@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: THOUGHT",
-    "description": "PURE System Logic - Asset Slot 24",
+    "description": "ARCHE-Defined Entity: THOUGHT (Slot 24)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "THOUGHT"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "cd95b0bde09efab48111ec9e45de70d5bed75c9711885b2e34d622e341cb3b33"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/24.png"

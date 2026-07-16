@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: AI_CORE",
-    "description": "PURE System Logic - Asset Slot 23",
+    "description": "ARCHE-Defined Entity: AI_CORE (Slot 23)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "AI_CORE"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "234b26d21a2cef46d676bc29082b976ddde320e3267512b114ed6d68caccfc8b"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/23.png"

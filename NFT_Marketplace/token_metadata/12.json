@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: RESERVE",
-    "description": "PURE System Logic - Asset Slot 12",
+    "description": "ARCHE-Defined Entity: RESERVE (Slot 12)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "RESERVE"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "b702d1698fe17d27d262666ff7aedbca395f0dac84fa671bf282389f3dfd6243"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/12.png"

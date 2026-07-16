@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: BIOLOGY",
-    "description": "PURE System Logic - Asset Slot 33",
+    "description": "ARCHE-Defined Entity: BIOLOGY (Slot 33)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "BIOLOGY"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "163cc266abd2d20a219315de2ba3716eac35458d96dbd08753d14c057bcdeebe"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/33.png"

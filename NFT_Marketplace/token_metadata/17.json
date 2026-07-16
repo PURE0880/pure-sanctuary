@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: bit",
-    "description": "PURE System Logic - Asset Slot 17",
+    "description": "ARCHE-Defined Entity: bit (Slot 17)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "bit"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "b40c772e81d6bd6be343e15a1ede6fa38a54cbc83a1ee3eaac12661e1c4a1da6"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/17.png"

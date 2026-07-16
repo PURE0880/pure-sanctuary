@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: PROMPT",
-    "description": "PURE System Logic - Asset Slot 25",
+    "description": "ARCHE-Defined Entity: PROMPT (Slot 25)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "PROMPT"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "57506168a7c72023fd5a448b234090546f810dff77b96c5031bb15986c35388e"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/25.png"

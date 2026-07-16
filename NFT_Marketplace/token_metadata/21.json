@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: STORAGE",
-    "description": "PURE System Logic - Asset Slot 21",
+    "description": "ARCHE-Defined Entity: STORAGE (Slot 21)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "STORAGE"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "ed8057380bf15f0d28f1e5655867f6697d716ad86b16c6a3fa8ef4bb5c5696c0"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/21.png"

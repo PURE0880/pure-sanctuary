@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: RENDER",
-    "description": "PURE System Logic - Asset Slot 30",
+    "description": "ARCHE-Defined Entity: RENDER (Slot 30)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "RENDER"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "b51e832fa0bcdc47999cd27e4fbb3c2c045532efe452e51b9a22a8c6d7d24b98"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/30.png"

@@ -1,6 +1,6 @@
 {
-    "name": "PURE Asset: FUNCTION",
-    "description": "ARCHE-Defined Entity: FUNCTION (Slot 27)",
+    "name": "PURE Asset: PURE",
+    "description": "ARCHE-Defined Entity: PURE (Slot 00)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -9,24 +9,24 @@
         },
         {
             "trait_type": "SlotID",
-            "value": "27"
+            "value": "00"
         },
         {
             "trait_type": "Label",
-            "value": "FUNCTION"
+            "value": "PURE"
         },
         {
             "trait_type": "ArcheHash",
-            "value": "4839abaa85228c3e6c2317feca6db1548da913b9fe914e476149ae65ce6074fd"
+            "value": "aa3a0e626968a88917c38961d63a1559f4c9759baa1a1e322f0d55a4de3b7da2"
         },
         {
             "trait_type": "Ratio",
-            "value": "100000"
+            "value": "1000000"
         },
         {
             "trait_type": "Status",
             "value": "DEPLOYED"
         }
     ],
-    "image": "https://pure-sanctuary.github.io/images/27.png"
+    "image": "https://pure-sanctuary.github.io/images/00.png"
 }

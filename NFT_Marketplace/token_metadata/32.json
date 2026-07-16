@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: KERNING",
-    "description": "PURE System Logic - Asset Slot 32",
+    "description": "ARCHE-Defined Entity: KERNING (Slot 32)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "KERNING"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "79b2938b6cae2c3b5f31916848b573d67413ad1cb05bddc01f7e04092e8fc13e"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/32.png"

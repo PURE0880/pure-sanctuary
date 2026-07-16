@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: GLYPH",
-    "description": "PURE System Logic - Asset Slot 31",
+    "description": "ARCHE-Defined Entity: GLYPH (Slot 31)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "GLYPH"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "14d85b870e4e055f5124d4156c30941a533bdcc9cff6101d018084d68ffb379e"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/31.png"

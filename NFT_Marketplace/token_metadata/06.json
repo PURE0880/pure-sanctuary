@@ -1,6 +1,6 @@
 {
-    "name": "PURE Asset: FUNCTION",
-    "description": "ARCHE-Defined Entity: FUNCTION (Slot 27)",
+    "name": "PURE Asset: JPYC",
+    "description": "ARCHE-Defined Entity: JPYC (Slot 06)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -9,15 +9,15 @@
         },
         {
             "trait_type": "SlotID",
-            "value": "27"
+            "value": "06"
         },
         {
             "trait_type": "Label",
-            "value": "FUNCTION"
+            "value": "JPYC"
         },
         {
             "trait_type": "ArcheHash",
-            "value": "4839abaa85228c3e6c2317feca6db1548da913b9fe914e476149ae65ce6074fd"
+            "value": "99f9dbbc36c46a2152113e2a19dde6c16f559a13451f8b941265753af8ccfe0d"
         },
         {
             "trait_type": "Ratio",
@@ -28,5 +28,5 @@
             "value": "DEPLOYED"
         }
     ],
-    "image": "https://pure-sanctuary.github.io/images/27.png"
+    "image": "https://pure-sanctuary.github.io/images/06.png"
 }

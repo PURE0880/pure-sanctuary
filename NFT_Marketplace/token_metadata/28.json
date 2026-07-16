@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: SWIFT",
-    "description": "PURE System Logic - Asset Slot 28",
+    "description": "ARCHE-Defined Entity: SWIFT (Slot 28)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "SWIFT"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "03603c9de31ffd1c45f8f1e00fa8d487e17f6c2c72623dafb2a1307c9cddb33a"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/28.png"

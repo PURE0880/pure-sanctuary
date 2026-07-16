@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: sol",
-    "description": "PURE System Logic - Asset Slot 20",
+    "description": "ARCHE-Defined Entity: sol (Slot 20)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "sol"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "62a22ed7f43907e9065ebbd4094e4ffa89985583e52d491251619a4c5b0be979"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/20.png"

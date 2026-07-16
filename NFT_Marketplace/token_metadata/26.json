@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: GEN_DATA",
-    "description": "PURE System Logic - Asset Slot 26",
+    "description": "ARCHE-Defined Entity: GEN_DATA (Slot 26)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "GEN_DATA"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "94e9af02f84e5b426f933966b3da6df7afeb6bad8534a34dfe88260718c42e17"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/26.png"

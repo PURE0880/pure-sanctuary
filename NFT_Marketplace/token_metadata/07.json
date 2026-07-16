@@ -1,6 +1,6 @@
 {
-    "name": "PURE Asset: FUNCTION",
-    "description": "ARCHE-Defined Entity: FUNCTION (Slot 27)",
+    "name": "PURE Asset: USDT",
+    "description": "ARCHE-Defined Entity: USDT (Slot 07)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -9,15 +9,15 @@
         },
         {
             "trait_type": "SlotID",
-            "value": "27"
+            "value": "07"
         },
         {
             "trait_type": "Label",
-            "value": "FUNCTION"
+            "value": "USDT"
         },
         {
             "trait_type": "ArcheHash",
-            "value": "4839abaa85228c3e6c2317feca6db1548da913b9fe914e476149ae65ce6074fd"
+            "value": "8b1a1d9c2b109e527c9134b25b1a1833b16b6594f92daa9f6d9b7a6024bce9d0"
         },
         {
             "trait_type": "Ratio",
@@ -28,5 +28,5 @@
             "value": "DEPLOYED"
         }
     ],
-    "image": "https://pure-sanctuary.github.io/images/27.png"
+    "image": "https://pure-sanctuary.github.io/images/07.png"
 }

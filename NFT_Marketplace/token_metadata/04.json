@@ -1,6 +1,6 @@
 {
-    "name": "PURE Asset: FUNCTION",
-    "description": "ARCHE-Defined Entity: FUNCTION (Slot 27)",
+    "name": "PURE Asset: BTC",
+    "description": "ARCHE-Defined Entity: BTC (Slot 04)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -9,15 +9,15 @@
         },
         {
             "trait_type": "SlotID",
-            "value": "27"
+            "value": "04"
         },
         {
             "trait_type": "Label",
-            "value": "FUNCTION"
+            "value": "BTC"
         },
         {
             "trait_type": "ArcheHash",
-            "value": "4839abaa85228c3e6c2317feca6db1548da913b9fe914e476149ae65ce6074fd"
+            "value": "e98e2830be1a7e4156d656a7505e65d08c67660dc618072422e9c78053c261e9"
         },
         {
             "trait_type": "Ratio",
@@ -28,5 +28,5 @@
             "value": "DEPLOYED"
         }
     ],
-    "image": "https://pure-sanctuary.github.io/images/27.png"
+    "image": "https://pure-sanctuary.github.io/images/04.png"
 }

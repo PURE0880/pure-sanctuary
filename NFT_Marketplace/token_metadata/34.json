@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: ESTHETICS",
-    "description": "PURE System Logic - Asset Slot 34",
+    "description": "ARCHE-Defined Entity: ESTHETICS (Slot 34)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "ESTHETICS"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "f9885c5f4cbf2d01d6de8e06c1b97914a0a41ca9c15adcaea3798a4052ba61fa"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/34.png"

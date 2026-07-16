@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: BOOT",
-    "description": "PURE System Logic - Asset Slot 19",
+    "description": "ARCHE-Defined Entity: BOOT (Slot 19)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "BOOT"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "0d3b34c2fb89199b69e6e72aef20fe69dc46515ec6e5156351ae5d0c3a0ef219"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/19.png"

@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: Unicode",
-    "description": "PURE System Logic - Asset Slot 22",
+    "description": "ARCHE-Defined Entity: Unicode (Slot 22)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "Unicode"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "ccfb7f446261b4b62fe6bb2c4fb6d984195ca51c89f543d15c873d4235564fa4"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/22.png"

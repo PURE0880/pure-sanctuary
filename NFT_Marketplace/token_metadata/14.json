@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: W",
-    "description": "PURE System Logic - Asset Slot 14",
+    "description": "ARCHE-Defined Entity: W (Slot 14)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "W"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "d2ec75cd002cc54c4cc6690500ee64d030751a1b19466a4ba8be1b42eb5a1031"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/14.png"

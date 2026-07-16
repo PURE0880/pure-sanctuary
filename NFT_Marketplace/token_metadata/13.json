@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: N",
-    "description": "PURE System Logic - Asset Slot 13",
+    "description": "ARCHE-Defined Entity: N (Slot 13)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "N"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "7c1e3133c5e040bb7fc55cda56e3c1998a2e33373c0850e92b53c932b65ceb44"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/13.png"

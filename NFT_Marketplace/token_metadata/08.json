@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: USDC",
-    "description": "PURE System Logic - Asset Slot 08",
+    "description": "ARCHE-Defined Entity: USDC (Slot 08)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,9 +16,17 @@
             "value": "USDC"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "d6aca1be9729c13d677335161321649cccae6a591554772516700f986f942eaa"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
-    "image": "ipfs://bafybeiauzeax5vbggqpmlnpj4vl72iu5kdfv3jvksscpwm6ofmibu5v7zy/8.png"
+    "image": "https://pure-sanctuary.github.io/images/08.png"
 }

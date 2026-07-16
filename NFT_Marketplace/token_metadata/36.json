@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: LOGOS",
-    "description": "PURE System Logic - Asset Slot 36",
+    "description": "ARCHE-Defined Entity: LOGOS (Slot 36)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "LOGOS"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "8f25559d4438661ce7cfe8c0ae8ad1e13cc9f822542b8e79f7f8173b0df87b5c"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/36.png"

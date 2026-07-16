@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: byte",
-    "description": "PURE System Logic - Asset Slot 18",
+    "description": "ARCHE-Defined Entity: byte (Slot 18)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "byte"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "add4bfc7bb557d02d6c639d2a54f9300196b2fdb6b83d6d613d4cfd52221306f"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/18.png"

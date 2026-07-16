@@ -1,6 +1,6 @@
 {
     "name": "PURE Asset: MATIC",
-    "description": "PURE System Logic - Asset Slot 11",
+    "description": "ARCHE-Defined Entity: MATIC (Slot 11)",
     "external_url": "https://pure-sanctuary.github.io/",
     "attributes": [
         {
@@ -16,8 +16,16 @@
             "value": "MATIC"
         },
         {
+            "trait_type": "ArcheHash",
+            "value": "a6a7de01e8b7ba6a4a61c782a73188d808fc1f3cf5743fadb68a02ed884b594f"
+        },
+        {
             "trait_type": "Ratio",
             "value": "100000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "DEPLOYED"
         }
     ],
     "image": "https://pure-sanctuary.github.io/images/11.png"
